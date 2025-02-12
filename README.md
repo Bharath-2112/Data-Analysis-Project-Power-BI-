@@ -17,4 +17,6 @@ This project involves building an interactive financial performance dashboard us
 ### Interactive Reporting:
 - Create dynamic dashboards with filters and slicers for real-time, data-driven decision-making.
 
+## Dataset used
+- <a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix">Dataset</a>
 
