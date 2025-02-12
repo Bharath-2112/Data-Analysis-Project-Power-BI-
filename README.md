@@ -4,16 +4,16 @@ This project involves building an interactive financial performance dashboard us
 # Finance-Data-Analysis(Interactive dashhboard creating using Power BI)
 ## Objectives
 ### Track Financial Performance:
-Monitor key metrics like revenue, expenses, and profit margins over time.
+- Monitor key metrics like revenue, expenses, and profit margins over time.
 
 ### Expense Optimization:
-Identify major cost drivers and areas for cost reduction and budget optimization.
+- Identify major cost drivers and areas for cost reduction and budget optimization.
 
 ### Profitability Insights:
-Analyze profit margins across products, regions, and departments to highlight high and low-performing areas.
+- Analyze profit margins across products, regions, and departments to highlight high and low-performing areas.
 
 ### Forecasting & Trend Analysis:
-Utilize Power BI’s forecasting tools to predict future financial outcomes and guide strategic planning.
+- Utilize Power BI’s forecasting tools to predict future financial outcomes and guide strategic planning.
 
 ### Interactive Reporting:
-Create dynamic dashboards with filters and slicers for real-time, data-driven decision-making.
+- Create dynamic dashboards with filters and slicers for real-time, data-driven decision-making.
