@@ -20,3 +20,12 @@ This project involves building an interactive financial performance dashboard us
 ## Dataset used
 - <a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix">Dataset</a>
 
+## Questions(KPI's)
+- What is the total revenue for the current period?
+- What is the year-over-year revenue growth?
+- How does cash inflow compare to cash outflow over time
+- What is the cost per unit sold or cost per acquisition?
+- What are the predicted revenue and expense trends for the next quarter?
+- Are there any seasonal patterns affecting financial performance?
+- What is the year-over-year revenue growth?
+- Which products or services generate the highest revenue?
