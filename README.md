@@ -30,3 +30,25 @@ This project involves building an interactive financial performance dashboard us
 - What is the year-over-year revenue growth?
 - Which products or services generate the highest revenue?
 - Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix"> View Dashboard</a>
+
+## Process
+### Data Collection:
+- Gather financial data from sources like Excel, CSV, databases, or ERP systems.
+
+### Data Cleaning & Transformation:
+- Use Power Query to clean, format, and merge data, ensuring consistency and accuracy.
+
+### Data Modeling:
+- Build relationships between tables and create DAX measures for KPIs like Net Profit and Revenue Growth.
+
+### Visualization:
+- Design dashboards with KPI cards, charts, and slicers for interactive financial insights.
+
+### Analysis:
+- Perform trend, variance, and forecasting analysis to identify key patterns and opportunities.
+
+### Reporting & Sharing:
+- Publish dashboards to the Power BI Service, set automatic refreshes, and share reports with stakeholders.
+
+### Review & Improve:
+- Continuously refine dashboards based on feedback and evolving business needs.
