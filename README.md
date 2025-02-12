@@ -54,4 +54,5 @@ This project involves building an interactive financial performance dashboard us
 - Continuously refine dashboards based on feedback and evolving business needs.
 
 ## Dashboard 
-![Screenshot Finance-Dashboard](https://github.com/user-attachments/assets/98995b8a-c2ec-41f8-b160-671f02dd1970)
+![Screenshot finance](https://github.com/user-attachments/assets/ca02cb39-67d6-418a-8429-6c79bd30b3d1)
+
