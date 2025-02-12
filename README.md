@@ -29,7 +29,7 @@ This project involves building an interactive financial performance dashboard us
 - Are there any seasonal patterns affecting financial performance?
 - What is the year-over-year revenue growth?
 - Which products or services generate the highest revenue?
-- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix"> View Dashboard</a>
+- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix"> View Dashboard</a>.
 
 ## Process
 ### Data Collection:
@@ -56,4 +56,21 @@ This project involves building an interactive financial performance dashboard us
 ## Dashboard 
 ![Screenshot Finance-Dashboard](https://github.com/user-attachments/assets/9aedf168-b40d-46f6-aae0-8139c41eac08)
 
+## project insights
+### Revenue Trends:
+- Identified peak revenue periods and year-over-year growth patterns, highlighting strong financial quarters.
 
+### Expense Breakdown:
+-Pinpointed major cost drivers and areas of overspending, enabling targeted cost reduction strategies.
+
+### Profitability Analysis:
+- Revealed the most profitable products, departments, and regions, helping prioritize high-performing areas.
+
+### Budget vs. Actual Performance:
+- Detected variances between budgeted and actual expenses, highlighting areas needing better financial control.
+
+### Cash Flow Monitoring:
+- Improved visibility into cash inflows and outflows, identifying potential liquidity issues.
+
+### Forecasting & Decision-Making:
+- Leveraged predictive analytics to forecast revenue and guide strategic planning.
