@@ -29,3 +29,4 @@ This project involves building an interactive financial performance dashboard us
 - Are there any seasonal patterns affecting financial performance?
 - What is the year-over-year revenue growth?
 - Which products or services generate the highest revenue?
+- Dashboard interaction<a href="https://github.com/Bharath-2112/Data-Analysis-Project-Power-BI-/blob/main/Finance-Data-Analysis.pbix"> View Dashboard</a>
